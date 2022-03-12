@@ -1,1 +1,1 @@
-# chatguard
+# Altyapı toplamadır.
